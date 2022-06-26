@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ace One</string>
+    <string name="activityName">Profile,</string>
+    <string name="help">Help</string>
+    <string name="complete_kyc">Complete KYC</string>
+    <string name="name_Profile">Name</string>
+    <string name="RightsReserved">All rights reserved Ace Service Associates, 2022</string>
+</resources>
